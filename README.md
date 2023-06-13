@@ -1,6 +1,8 @@
 # Airplanes_Analysis
 Exploratory analysis and visualization (with pandas and seaborn) of a database of world airports.
 
+
+1. Introduction.
 This project consists of 4 different files: the Python notebook, its "html" version, a ".txt" file and a ".csv" file of Madrid-Barcelona.
 
 The intention of the project is to analyze a large dataset of airport data from around the world (Europe, USA, Canada, South America, Australia and New Zealand). Geospatial analysis has been used to analyze airport data from all over the world. In addition, flights between different airports in North America and Spain can be visualized. The main objective of this section is to identify patterns and connections between airports, and to explore the relationship between airport location and number of flights.
